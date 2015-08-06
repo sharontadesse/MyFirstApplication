@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
         findViewById(R.id.btnclick).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Toast.makeText(MainActivity.this,"ינה אני אוהב אותך",Toast.LENGTH_LONG).show();
+                Toast.makeText(MainActivity.this,"שלום שמי שרון",Toast.LENGTH_LONG).show();
             }
         });   ;
     }
